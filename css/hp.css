@@ -1,0 +1,183 @@
+h1{
+}
+
+h2{
+	font-family: Optima, "Avenir Next", Avenir, Calibri;
+	display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+
+}
+
+h5{
+}
+
+body{
+	font-family: Optima, "Avenir Next", Avenir, Calibri, Arial, sans-serif;
+    color: #000;
+}
+
+.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>th {
+   background-color: #f3f3f3;
+   border-color: #fefefe; 
+ }
+
+.table-striped>tbody>tr:nth-child(even)>td, 
+.table-striped>tbody>tr:nth-child(even)>th {
+   border-color: #fefefe; 
+ }
+
+
+a{
+	text-decoration:none;
+	font-weight:400;
+	color:#a80707
+}
+a:hover{
+	color:#000
+}
+
+p{
+}
+
+.table-striped td, th{
+	padding: 1.4px;
+}
+
+.container{
+	max-width: 830px;
+}
+button{
+	float: right;
+}
+
+.hyplink{
+	color: #999;
+}
+
+.navbar{
+	padding: 50px 0 20px 0;
+}
+
+#navbar-header{
+    margin: auto;
+
+}
+
+#navbar-titlestyle{
+	font-size: 25px;
+}
+
+#ul-padded{
+     float: right;
+     padding-left: 20px; 
+}
+
+ul{
+	float: right;
+}
+
+.jumbotron {
+    margin-top: 100px;
+    background-color: #fff;
+}
+
+#jumbotron-no-margin{
+	margin-top: 0px;
+	background-color: #dcdcdc;
+	margin-left: 0px;
+	font-size: 13px;
+	float: left;
+	padding-bottom: 0px;
+	padding-top: 25px;
+}
+
+#jumbotron-less-padding{
+	padding-top: 10px;
+}
+
+
+#jumbotron-no-color-left{
+	margin-top: 0px;
+	font-size: 16px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+}
+
+#jumbotron-no-color-right{
+	margin-top: 0px;
+	font-size: 15px;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+#jumbotron-abs-height{
+	width: relative;
+	padding-bottom: 0px;
+	padding-top: 10px;
+}
+
+#profile-pic{
+	border-radius: 50px;
+	height: 40px;
+	width: 40px;
+	float: left;
+}
+
+.jumbotron99{
+	margin-top: 0px;
+}
+
+br{
+}
+
+#imgcontainer{
+margin-top: 0px;
+}
+
+.textbox{
+	align: left;
+}
+
+img{
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-right: 20px;
+}
+
+
+
+input {
+	background-color: #990000;
+	padding: none;
+	margin: none;
+	border: none;
+	font-size: 50%;
+	font-family: Courier;
+	color: #fff;
+	width: 115;
+
+
+}
+
+.bg-faded{
+	background-color: fff;
+	border-bottom: 1px solid #efefef;
+}
+
+.profile-picture{
+	height: 130px;
+    width: 130px;
+    position: relative;
+    margin: 0px 30px 20px 0px;
+    float: left;
+    border-radius: 50%;
+}
+
